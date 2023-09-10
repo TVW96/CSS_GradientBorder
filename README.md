@@ -1,3 +1,3 @@
 ## CSS Challenge: 
-### Try recreating these same css style with sass.
+### Try recreating these same css style's with sass.
 
