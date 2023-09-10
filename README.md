@@ -1,6 +1,3 @@
-# CSS_GradientBorder
+## CSS Challenge: 
+### Try recreating these same css style with sass.
 
-CSS Challenge:
-Try recreating this same css style with sass.
-
-Tutorial video: 
